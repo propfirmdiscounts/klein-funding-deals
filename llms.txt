@@ -1,0 +1,8 @@
+# Klein Funding Discount Codes
+
+This dataset tracks historical deal observations for Klein Funding from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (30%)
+Works any time on all Klein Funding challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/klein-funding/
