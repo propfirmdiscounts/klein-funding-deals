@@ -1,6 +1,6 @@
 # Klein Funding - Discount Codes & Deal History
 
-As of 2026-02-14, the verified Klein Funding discount code is PFD — 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified Klein Funding discount code is PFD — 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > We are Klein Funding, a leading prop trading firm dedicated to empowering traders worldwide. Our mission is to provide innovative funding solutions and advanced tools, enabling traders to unlock their full potential. With a focus on transparency, professionalism, and growth, we support traders in achieving consistent success. Join Klein Funding and take your trading journey to the next level.
 >
