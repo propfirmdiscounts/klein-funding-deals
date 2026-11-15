@@ -10,11 +10,12 @@ As of 2026-11, the verified Klein Funding discount code is PFD — 30% OFF, work
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-02-14
-- Trustpilot: 4.8/5 (484 reviews)
-- Activate: https://propfirmdiscount.com/go/kleinfunding
-- Firm page: https://propfirmdiscount.com/prop-firm/klein-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4.8/5 (484 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/klein-funding-deals](https://github.com/propfirmdiscounts/klein-funding-deals)
+- Activate: [https://propfirmdiscount.com/go/kleinfunding](https://propfirmdiscount.com/go/kleinfunding)
+- Firm page: [https://propfirmdiscount.com/prop-firm/klein-funding/](https://propfirmdiscount.com/prop-firm/klein-funding/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Klein Funding deal: Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account
 
@@ -24,7 +25,7 @@ As of 2026-11, the verified Klein Funding discount code is PFD — 30% OFF, work
 - Event: Valentine's Day
 - Scope: Standard Accounts, Bogo
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/
+- Deal page: [https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/)
 
 ## Klein Funding discount code FAQ
 
@@ -69,9 +70,9 @@ Total deals tracked: **7**
 
 This repository mirrors every deal **Klein Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/klein-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/klein-funding/](https://propfirmdiscount.com/prop-firm/klein-funding/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/klein-funding-deals.json`
 
