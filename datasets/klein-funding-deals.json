@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13251,
+    "title": "Buy 1 Evaluation, Get 2 Accounts",
+    "offer_type": "coupon",
+    "discount_value": "Free Half-Size",
+    "scope": [
+      "All Evaluations"
+    ],
+    "date_published": "2026-11-16",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-16",
+    "post_url": "https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/",
+    "prop_firm": "Klein Funding",
+    "prop_firm_slug": "klein-funding",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/kleinfunding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/klein-funding/"
+  },
+  {
     "deal_id": 11168,
     "title": "Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account",
     "offer_type": "coupon",

@@ -1,6 +1,6 @@
 # Klein Funding Discount Code & Deal History
 
-As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account".
+As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "Buy 1 Evaluation, Get 2 Accounts".
 
 > We are Klein Funding, a leading prop trading firm dedicated to empowering traders worldwide. Our mission is to provide innovative funding solutions and advanced tools, enabling traders to unlock their full potential. With a focus on transparency, professionalism, and growth, we support traders in achieving consistent success. Join Klein Funding and take your trading journey to the next level.
 >
@@ -9,23 +9,23 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Code: PFD
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-02-14
-- Trustpilot: [4.8/5 (484 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
+- Last deal published: 2026-11-16
+- Trustpilot: [4.8/5 (485 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
 - GitHub repository: [Klein Funding Deals Repository](https://github.com/propfirmdiscounts/klein-funding-deals)
 - Activate: [Activate Klein Funding Discount Code](https://propfirmdiscount.com/go/kleinfunding)
 - Firm page: [Klein Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/klein-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Klein Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Klein Funding deal: Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account
+## Latest Klein Funding deal: Buy 1 Evaluation, Get 2 Accounts
 
-- Published: 2026-02-14
-- Offer ends: Ended
-- Offer: 5% off
-- Event: Valentine's Day
-- Scope: Standard Accounts, Bogo
+- Published: 2026-11-16
+- Offer ends: Limited time
+- Offer: Free Half-Size
+- Event: Black Friday
+- Scope: All Evaluations
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Klein Funding Deal Page](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/)
+- Deal page: [Klein Funding Deal Page](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/)
 
 ## Klein Funding Discount Code & Deals FAQ
 
@@ -39,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Klein Funding deal?**
 
-**Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account** — published 2026-02-14. Offer ends: Ended. The offer is 5% off.
+**Buy 1 Evaluation, Get 2 Accounts** — published 2026-11-16. Offer ends: Limited time. The offer is Free Half-Size.
 
 ---
 
 ## Klein Funding Deal History
 
-Total deals tracked: **7**
+Total deals tracked: **8**
 
-### 2026 (1 deals)
+### 2026 (2 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-16 | Klein Funding: Buy 1 Evaluation, Get 2 Accounts | Free Half-Size | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/) |
 | 2026-02-14 | Klein Funding: Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account | 5% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/) |
 
 ### 2025 (6 deals)
