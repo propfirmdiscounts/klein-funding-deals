@@ -1,4 +1,4 @@
-# Klein Funding - Discount Codes & Deal History
+# Klein Funding Discount Code & Deal History
 
 As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account".
 
@@ -8,7 +8,7 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 
 - Code: PFD
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-02-14
 - Trustpilot: [4.8/5 (484 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
 - GitHub repository: [Klein Funding Deals Repository](https://github.com/propfirmdiscounts/klein-funding-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Klein Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Klein Funding deal: Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account
+## Latest Klein Funding deal: Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account
 
 - Published: 2026-02-14
 - Offer ends: Ended
@@ -27,7 +27,7 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Klein Funding Deal Page](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/)
 
-## Klein Funding discount code FAQ
+## Klein Funding Discount Code & Deals FAQ
 
 **What is the Klein Funding discount code?**
 
@@ -43,7 +43,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Klein Funding Deal History
 
 Total deals tracked: **7**
 
@@ -66,7 +66,7 @@ Total deals tracked: **7**
 
 ---
 
-## About this repository
+## About the Klein Funding Deals Dataset
 
 This repository mirrors every deal **Klein Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -74,7 +74,7 @@ This repository mirrors every deal **Klein Funding** has published on PropFirmDi
 - Prop firm profile: [Klein Funding Profile](https://propfirmdiscount.com/prop-firm/klein-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/klein-funding-deals.json`
+## Klein Funding Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -106,13 +106,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
