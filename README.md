@@ -1,6 +1,6 @@
 # Klein Funding - Discount Codes & Deal History
 
-As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account".
 
 > We are Klein Funding, a leading prop trading firm dedicated to empowering traders worldwide. Our mission is to provide innovative funding solutions and advanced tools, enabling traders to unlock their full potential. With a focus on transparency, professionalism, and growth, we support traders in achieving consistent success. Join Klein Funding and take your trading journey to the next level.
 >
@@ -11,11 +11,11 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-02-14
 - Trustpilot: [4.8/5 (484 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/klein-funding-deals](https://github.com/propfirmdiscounts/klein-funding-deals)
-- Activate: [https://propfirmdiscount.com/go/kleinfunding](https://propfirmdiscount.com/go/kleinfunding)
-- Firm page: [https://propfirmdiscount.com/prop-firm/klein-funding/](https://propfirmdiscount.com/prop-firm/klein-funding/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Klein Funding Deals Repository](https://github.com/propfirmdiscounts/klein-funding-deals)
+- Activate: [Activate Klein Funding Discount Code](https://propfirmdiscount.com/go/kleinfunding)
+- Firm page: [Klein Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/klein-funding/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Klein Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Klein Funding deal: Klein Funding Valentine's Promo: 5% Off + Bonus Evaluation Account
 
@@ -25,7 +25,7 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Event: Valentine's Day
 - Scope: Standard Accounts, Bogo
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/)
+- Deal page: [Klein Funding Deal Page](https://propfirmdiscount.com/deals/klein-funding/klein-funding-valentines-day-standard-account-promo/)
 
 ## Klein Funding discount code FAQ
 
@@ -70,9 +70,9 @@ Total deals tracked: **7**
 
 This repository mirrors every deal **Klein Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/klein-funding/](https://propfirmdiscount.com/prop-firm/klein-funding/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Klein Funding Profile](https://propfirmdiscount.com/prop-firm/klein-funding/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/klein-funding-deals.json`
 
@@ -115,4 +115,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
