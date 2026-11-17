@@ -1,4 +1,4 @@
-# Klein Funding Discount Code & Deal History
+# Klein Funding Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "Buy 1 Evaluation, Get 2 Accounts".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
 - Trustpilot: [4.8/5 (485 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
-- GitHub repository: [Klein Funding Deals Repository](https://github.com/propfirmdiscounts/klein-funding-deals)
+- GitHub repository: [Klein Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/klein-funding-deals)
 - Activate: [Activate Klein Funding Discount Code](https://propfirmdiscount.com/go/kleinfunding)
 - Firm page: [Klein Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/klein-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -27,7 +27,7 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Klein Funding Deal Page](https://propfirmdiscount.com/deals/klein-funding/klein-funding-black-friday-free-half-size-challenge/)
 
-## Klein Funding Discount Code & Deals FAQ
+## Klein Funding Discount Code & Deals History FAQ
 
 **What is the Klein Funding discount code?**
 
@@ -43,7 +43,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Klein Funding Deal History
+## Klein Funding Deals History
 
 Total deals tracked: **8**
 
@@ -67,7 +67,7 @@ Total deals tracked: **8**
 
 ---
 
-## About the Klein Funding Deals Dataset
+## About the Klein Funding Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Klein Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -75,7 +75,7 @@ This repository mirrors every deal **Klein Funding** has published on PropFirmDi
 - Prop firm profile: [Klein Funding Profile](https://propfirmdiscount.com/prop-firm/klein-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Klein Funding Deal Dataset: Field Definitions
+## Klein Funding Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

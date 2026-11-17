@@ -1,4 +1,4 @@
-# Klein Funding Discount Codes
+# Klein Funding Discount Code & Deals History
 
 This dataset tracks historical deal observations for Klein Funding from PropFirmDiscount.com.
 
