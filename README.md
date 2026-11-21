@@ -10,7 +10,7 @@ As of November 2026, the verified Klein Funding discount code is PFD — 30% OFF
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
-- Trustpilot: [4.8/5 (485 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
+- Trustpilot: [4.8/5 (486 reviews)](https://www.trustpilot.com/review/kleinfunding.com)
 - GitHub repository: [Klein Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/klein-funding-deals)
 - Activate: [Activate Klein Funding Discount Code](https://propfirmdiscount.com/go/kleinfunding)
 - Firm page: [Klein Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/klein-funding/)
